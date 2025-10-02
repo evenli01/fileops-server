@@ -1,5 +1,7 @@
 # File Operations MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@evenli01/fileops-server)](https://smithery.ai/server/@evenli01/fileops-server)
+
 A Model Context Protocol (MCP) server that provides tools for common file processing operations. Built with FastMCP and ready for deployment on Smithery.
 
 ## Features
@@ -27,6 +29,14 @@ The server supports session-specific configuration:
 - Error handling for permissions and encoding issues
 
 ## Local Development
+
+### Installing via Smithery
+
+To install fileops-server automatically via [Smithery](https://smithery.ai/server/@evenli01/fileops-server):
+
+```bash
+npx -y @smithery/cli install @evenli01/fileops-server
+```
 
 ### Prerequisites
 
