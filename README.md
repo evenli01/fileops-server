@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/evenli01-fileops-server-badge.png)](https://mseep.ai/app/evenli01-fileops-server)
+
 # File Operations MCP Server
 
 A Model Context Protocol (MCP) server that provides tools for common file processing operations. Built with FastMCP and ready for deployment on Smithery.
